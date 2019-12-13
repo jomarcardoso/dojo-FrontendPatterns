@@ -9,6 +9,28 @@ Padrões são criados para suprir uma necessidade da linguagem, organização, e
 
 Protege as variáveis e facilita na nomenclatura das variáveis em um escopo menor.
 
+### VASC
+
+> Views, APIs, Services e constantes
+
+É uma forma de organização dos componentes no frontend.
+
+#### Views
+
+Cuidam da renderização.
+
+#### Services
+
+Funções que auxiliares.
+
+#### API
+
+Conjunto de Funções auxiliares com um propósito e um resultado testável.
+
+#### Constants
+
+Mensagens, caminhos...
+
 ### Argumento único
 
 Quando precisar colocar mais do que um argumento colocar em um objeto para eles serem nomeados e poderem ser ignorados se necessário.
