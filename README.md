@@ -1,4 +1,5 @@
-# dojo-JavaScriptPatterns
+# Frontend Pattterns
+
 Padrões e boas práticas que acho útil compartilhar.
 
 ## Padrões
