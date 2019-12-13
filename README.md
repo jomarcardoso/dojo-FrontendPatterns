@@ -48,6 +48,15 @@ function doSomething({ arg1, arg2, ...restArgs } = {}) {
 }
 ```
 
+
+```js
+function doSomething(props = {}) {
+  // props.arg1
+  // props.arg2
+  // ...
+}
+```
+
 O `restArgs` serve para pegar todos os outros atributos que não serão usado e colocar em um objeto. Bastante utilizado nos componentes em React para enviar os "props" para o primeiro elemento que ele renderiza.
 
 ## Boas práticas
