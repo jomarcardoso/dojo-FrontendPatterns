@@ -30,7 +30,7 @@ Conjunto de Funções auxiliares com um propósito e um resultado testável.
 
 #### Constants
 
-Mensagens, caminhos...
+Mensagens, caminhos, templates...
 
 ### Argumento único
 
